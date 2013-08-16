@@ -7,11 +7,11 @@ https://github.com/rpety/jQueryUi-Unobtrusive
     return [
       {
         name: "accordion",
-        functions: ["animate.step", "animate.progress", "animate.complete", "animate.done", "animate.fail", "animate.always"]
+        functions: []
       },
       {
         name: "autocomplete",
-        functions: ["source"]
+        functions: ["source","position.using"]
       },
       {
         name: "button",
